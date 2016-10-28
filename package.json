@@ -1,7 +1,7 @@
 {
-  "name": "hexo-renderer-marked",
-  "version": "0.2.11",
-  "description": "Markdown renderer plugin for Hexo",
+  "name": "hexo-media-marked",
+  "version": "0.1.4",
+  "description": "Markdown renderer plugin for Hexo, render result is like media wiki",
   "main": "index",
   "scripts": {
     "eslint": "eslint .",
