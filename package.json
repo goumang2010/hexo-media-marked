@@ -1,6 +1,6 @@
 {
   "name": "hexo-media-marked",
-  "version": "0.1.8",
+  "version": "0.2.0",
   "description": "Markdown renderer plugin for Hexo, render result is like media wiki",
   "main": "index",
   "scripts": {
